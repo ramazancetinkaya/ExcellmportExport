@@ -1,6 +1,7 @@
 # ExcelmportExport
 Excel Import/Export
 
+To use the ExcelImportExport class, you need to first create an instance of the class, and then call its methods as needed.
 
 ## Here is an example of how you could use the class to export data to an Excel file:
 ```php
