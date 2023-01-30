@@ -1,5 +1,4 @@
-# ExcellmportExport
-Excel Import/Export
+# Excel lmport / Export
 
 To use the ExcelImportExport class, you need to first create an instance of the class, and then call its methods as needed.
 
