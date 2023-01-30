@@ -31,7 +31,7 @@ It's important to note that you need to include the PHPExcel library in your pro
 
 Also, you need to make sure that the database connection details in the class constructor match the details of your database.
 
-### Author
+### Authors
 
 **Ramazan Çetinkaya**
 
